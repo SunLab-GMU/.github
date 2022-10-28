@@ -1,4 +1,4 @@
-✨ **Welcome to Sun Security Laboratory (SunLab)!** ✨ <img align="right" height="100em" src="../sunlab_logo.png" />
+✨ **Welcome to Sun Security Laboratory (SunLab)!** ✨ <img align="right" height="100em" src="/profile/sunlab_logo.png" />
 
 SunLab is a security research lab built by Dr. Kun Sun at George Mason University, Fairfax, VA. \
 Our research includes system security, network security, software security, and AI security. 

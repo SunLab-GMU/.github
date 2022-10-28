@@ -6,4 +6,4 @@ Our research includes system security, network security, software security, and 
 - 🔭 More info about SunLab >> [SunLab Website](https://sunlab-gmu.github.io), [Dr. Sun's Homepage](https://csis.gmu.edu/ksun/)
 - 📫 Join in or cooperate with SunLab >> [contact SunLab](mailto:ksun3@gmu.edu)
 
-“Live as if you were to die tomorrow. Learn as if you were to live forever.” –– Mahatma Gandhi
+*“Live as if you were to die tomorrow. Learn as if you were to live forever.” –– Mahatma Gandhi*
